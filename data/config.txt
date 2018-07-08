@@ -1,0 +1,11 @@
+; build
+build_version = 0.1
+build_date = 2018-07-08
+
+; updater
+auto_update = true
+update_path = "www.xyz.com"
+
+; application
+window_size = 1280,720
+skin = default
