@@ -1,0 +1,8 @@
+update_message=New version available (0.1). Current version: {version_current}
+manuallInstallation=false
+files
+config.txt=e6653eee9933cb15e812d40e8cef456e
+LICENCE_3RD_PARTY.txt=fc5e0a173c4829141b354b9ed44badaf
+log.txt=f36970c6f05c10ac9062473062662c02
+vehicles.xml=e12928725e964b914b5b6c5b875b77d6
+WTSightEdit_app_v0_1.jar=2c3a9a16a7081e38453179e55cfc7acc
