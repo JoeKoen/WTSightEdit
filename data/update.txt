@@ -1,5 +1,5 @@
 update_message=New version available (0.1). Current version: {version_current}
-manuallInstallation=false
+manualInstallation=false
 files
 config.txt=2ab24ff067a2812e3dca46ea5d8db618
 LICENCE_3RD_PARTY.txt=fc5e0a173c4829141b354b9ed44badaf
