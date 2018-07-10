@@ -1,3 +1,4 @@
+DO_NOT_UPDATE
 update_message=New version available (0.1). Current version: {version_current}
 manuallInstallation=false
 files
