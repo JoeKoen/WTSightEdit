@@ -3,8 +3,8 @@
 // whitespaces before and after "=" will be cut off
 
 // flags
-//flag                = DO_NOT_UPDATE
-flag                = MANUAL_UPDATE
+//flag              = DO_NOT_UPDATE
+//flag              = MANUAL_UPDATE
 
 // update data
 update_message      = New version available (0.1). Current version: {version_current}
