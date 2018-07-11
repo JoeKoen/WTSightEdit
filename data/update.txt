@@ -3,7 +3,7 @@
 // whitespaces before and after "=" will be cut off
 
 // flags
-flag                = DO_NOT_UPDATE
+//flag                = DO_NOT_UPDATE
 flag                = MANUAL_UPDATE
 
 // update data
