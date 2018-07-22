@@ -1,9 +1,12 @@
-// flags
+; version
+build_version = 0.2
 
-// messages
-update_message = update message
+; flags
 
-// files
+; messages
+update_message = test update message
+
+; files
 file = config.txt:e6653eee9933cb15e812d40e8cef456e
 file = LICENCE_3RD_PARTY.txt:fc5e0a173c4829141b354b9ed44badaf
 file = vehicles.xml:e12928725e964b914b5b6c5b875b77d6
