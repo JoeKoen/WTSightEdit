@@ -1,5 +1,5 @@
 ; build
-build_version = 0.2
+build_version = 0.4
 build_date = 2018-07-08
 
 ; updater

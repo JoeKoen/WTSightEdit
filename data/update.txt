@@ -1,5 +1,5 @@
 ; version
-build_version = 0.3
+build_version = 0.4
 
 ; flags
 
@@ -7,7 +7,7 @@ build_version = 0.3
 update_message = test update message
 
 ; files
-file = config.txt:8f71b540305dedfabab4c1202903b9e4
+file = config.txt:bffc19cde435cb2711cd32bafa18eab2
 file = LICENCE_3RD_PARTY.txt:fc5e0a173c4829141b354b9ed44badaf
 file = vehicle_data.xml:19280cff44f5e4fe67db0b994ca0ea33
-file = wtedit_application.jar:d1f944c72e7943b8e67ac5e28482824b
+file = wtedit_application.jar:cb2af2d5903a52e10bfd742d28eaad3d
